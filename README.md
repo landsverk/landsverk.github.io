@@ -1,4 +1,4 @@
 landsverk.github.io
 ===================
 
-peronal website
+personal website
