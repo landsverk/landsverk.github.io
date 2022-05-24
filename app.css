@@ -1,0 +1,43 @@
+body {
+/*font-family: roboto, sans-serif;*/
+font-family: 'futura-pt' ,sans-serif;
+}
+
+.main {
+max-width:700px;
+text-align:center;
+margin: 0 auto;
+padding:1em;
+font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+.main h1{
+display: block;
+font-size: 300% !important;
+font-weight: 100;
+box-sizing: border-box;
+color: rgb(75, 75, 75) !important;
+/*font-family: 'Abril Fatface';*/
+}
+
+.main h2{
+padding: 1em;
+border-bottom: 1px solid #eee;
+    background: #fff;
+font-size: 125% !important;
+        font-weight: 100;
+        line-height: 1.5 !important;
+        margin: 0;
+        color: #666 !important;
+        letter-spacing: -0.02em !important;
+}
+aside {
+    background: #1f8dd6; /* same color as selected state on site menu */
+    padding: 0.3em 1em;
+    border-radius: 3px;
+    color: #fff;
+}
+.white-button {
+background-color: #fff;
+    color: #1c1c1c;
+}
